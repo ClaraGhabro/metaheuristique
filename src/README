@@ -1,0 +1,2 @@
+neato in.dot -n -Tpng -o draw
+display draw
