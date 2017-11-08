@@ -1,2 +1,2 @@
-
-http://pficheux.free.fr/articles/lmf/xlib/
+neato in.dot -n -Tpng -o draw
+display draw
